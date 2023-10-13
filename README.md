@@ -2,6 +2,13 @@
 our webtech project for 3rd sem . . .very minimal but gets the job done
 
 
+![image](https://github.com/Rutvij-2971/sports_arena_brochure/assets/106823874/dd9aab52-7a89-49d5-ae53-b21454828218)
+
+![image](https://github.com/Rutvij-2971/sports_arena_brochure/assets/106823874/c0265ce8-f2ba-464c-97b6-2635fae6fb91)
+
+![image](https://github.com/Rutvij-2971/sports_arena_brochure/assets/106823874/f6a9eb95-3cee-4cb8-8337-ff83d7ad638f)
+
+![image](https://github.com/Rutvij-2971/sports_arena_brochure/assets/106823874/3a53e06e-0d4d-48c8-be64-4b52a8d3986e)
 
 
 
